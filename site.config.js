@@ -44,7 +44,7 @@ const CONFIG = {
   googleSearchConsole: {
     enable: true,
     config: {
-      siteVerification: process.env.9WbaUfoC2uFB71M5Z_L_r34pfg2r-tZGT83FtFPLnhs,
+      siteVerification: 9WbaUfoC2uFB71M5Z_L_r34pfg2r-tZGT83FtFPLnhs,
     },
   },
   naverSearchAdvisor: {
