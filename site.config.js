@@ -48,9 +48,9 @@ const CONFIG = {
     },
   },
   naverSearchAdvisor: {
-    enable: false,
+    enable: true,
     config: {
-      siteVerification: process.env.NEXT_PUBLIC_NAVER_SITE_VERIFICATION || "",
+      siteVerification: process.env.NEXT_PUBLIC_NAVER_SITE_VERIFICATION || "fb674692a15b3135c0444540e1138786203dc7f2",
     },
   },
   utterances: {
